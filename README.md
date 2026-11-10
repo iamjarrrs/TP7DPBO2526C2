@@ -51,3 +51,8 @@ Aplikasi ini dibangun menggunakan **PHP Native** dengan pendekatan **Object-Orie
   3. **Antarmuka & Aksi (`index.php` & `view/`)**: Pengguna mengakses halaman melalui browser. Setiap aksi form (Create/Update/Delete) diproses di file view masing-masing dengan memanggil method dari class model.
 
 # Dokumentasi
+## 3. Dokumentasi
+
+[![YouTube Video](https://img.shields.io/badge/YouTube-Demonstrasi_Gameplay-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/jHyekifC324)
+
+Tonton video demonstrasi gameplay Flappy Bird di YouTube: [https://youtu.be/jHyekifC324](https://youtu.be/jHyekifC324)
